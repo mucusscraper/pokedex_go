@@ -4,8 +4,10 @@ This REPL Pokedex was made following the course on boot.dev for improving knowle
 
 ## How it works
 
-Type ```bash
-go run .```
+Type ```
+bash
+go run .
+```
 
 ## Commands
 
